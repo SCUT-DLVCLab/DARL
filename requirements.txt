@@ -1,0 +1,10 @@
+accelerate==1.10.1
+torch==2.4.1
+transformers==4.51.3
+datasets==4.2.0
+deepspeed==0.18.0
+flash_attn==2.7.4.post1
+qwen-vl-utils==0.0.14
+wandb==0.22.3
+Pillow==11.3.0
+numpy==2.2.6

@@ -1,0 +1,17 @@
+[
+  {
+    "prompt": "Recognize image as Markdown format",
+    "text": "Sample document text content here. This is a demonstration of the expected format.",
+    "img": "images/sample_001.jpg"
+  },
+  {
+    "prompt": "Recognize image as Markdown format",
+    "text": "Another example document with multiple lines of text.\nThis shows how line breaks are handled.\nThe model should extract all visible text accurately.",
+    "img": "images/sample_002.jpg"
+  },
+  {
+    "prompt": "将图片识别为Markdown格式",
+    "text": "Document parsing example with structured content:\n1. First item\n2. Second item\n3. Third item\n\nThe model preserves formatting and structure.",
+    "img": "images/sample_003.jpg"
+  }
+]
