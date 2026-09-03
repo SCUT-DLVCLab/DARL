@@ -80,10 +80,10 @@ accelerate launch --config_file configs/deep_config.yaml train.py
 
 Modify training parameters in `train.py`:
 
-- `max_new_tokens`: Sliding window size (default: 16)
-- `learning_rate`: Learning rate (default: 2e-5)
-- `weight_ar`: DAR loss weight (default: 1.0)
-- `weight_rl`: DTPO loss weight (default: 0.1)
+- `max_new_tokens`: Sliding window size
+- `learning_rate`: Learning rate
+- `weight_ar`: DAR loss weight
+- `weight_rl`: DTPO loss weight
 
 ## 📈 Evaluation
 
