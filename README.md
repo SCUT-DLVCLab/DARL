@@ -148,12 +148,7 @@ If you find DARL useful in your research, please cite:
 
 ## 🙏 Acknowledgements
 
-This research is supported by:
-
-- National Natural Science Foundation of China (Grant No.: 62476093)
-- Natural Science Foundation of Guangdong Province (Grant No. 2026A1515012038)
-
-Built on top of:
+This research is built on top of:
 
 - [dots.ocr](https://huggingface.co/dots-studio/dots.ocr): Base document parsing model
 - [Qwen-VL](https://github.com/QwenLM/Qwen-VL): Vision-language foundation
