@@ -120,7 +120,7 @@ DARL combines:
 
 Pre-trained DARL models are available on Hugging Face:
 
-🤗 **Model Hub**: [https://huggingface.co/your-org/DARL-weights](https://huggingface.co/your-org/DARL-weights)
+🤗 **Model Hub**: [https://huggingface.co/Geong/DARL](https://huggingface.co/Geong/DARL)
 
 Download and use:
 
